@@ -1,0 +1,15 @@
+Navbar {
+    #ffe8d6 //Beige
+    #000000 //Black
+}   
+Container {
+    #ffe8d6 //Beige
+    #edeced //Light White
+}
+About {
+    #283618 //Emerald
+}
+About h1 span {
+    #ffe8d6 //Beige
+    #a5a58d //Thin Green
+}
